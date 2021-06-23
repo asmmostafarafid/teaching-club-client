@@ -1,0 +1,11 @@
+.icon {
+  font-size: 3rem;
+  margin: 0 auto;
+}
+.card-animation:hover {
+  transform: scale(0.95);
+}
+.button-animation:hover {
+  transform: scale(0.9);
+  color: black;
+}

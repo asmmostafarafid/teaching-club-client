@@ -1,0 +1,36 @@
+.footer-area {
+  /* background-image: url(../../../images/footer-bg.png); */
+  background-size: cover;
+}
+
+.footer-area li {
+  padding-bottom: 10px;
+}
+
+.social-media .icon {
+  height: 40px;
+  width: 40px;
+  color: #161a19;
+  border-radius: 50%;
+  border: 1px solid #460de4;
+  padding: 10px;
+}
+.social-media .active-icon {
+  background-color: #1b1f1f;
+  color: white;
+}
+.icon:hover {
+  transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+  color: rgb(72, 16, 204);
+  transform: rotate(20deg);
+  transform: scaleY(0.9);
+}
+.copyright {
+  text-align: center;
+  background: aliceblue;
+}
+
+.copyright a:hover {
+  color: tomato;
+  transition: 2s;
+}

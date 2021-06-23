@@ -1,0 +1,8 @@
+.access-item {
+  color: aliceblue;
+  font-size: 1rem;
+}
+.access-item:hover {
+  transform: scale(0.9);
+  color: aquamarine;
+}
