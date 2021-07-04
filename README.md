@@ -18,6 +18,8 @@ i) For Admin: 1)Orders (All Orders will be shown and there he can change the sta
 3)Add Service (Admin can add services in the database that will be shown in service section dynamically) 
 4)Manage Services ( Admin can remove any service)
 5)Make Admin (Admin can make any other email as admin)
-ii) For Normal User: 1)Order (Order of the particular user will be shown ) 
-2)Review
+ii) For Normal User:
+1)Order (Order of the particular user will be shown ) 
+2)Review.
+
  iii) Used Technologies : React Js, React-Bootstrap ,React-Router, React-Hook-form, Stripe, React-Modals, firebase, Node Js, Express Js, Mongodb, heroku, netlify etc.
